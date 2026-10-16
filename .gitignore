@@ -1,0 +1,17 @@
+node_modules/
+logs/
+screenshots-debug/
+outputs/
+chrome-profile-kiara/
+*.png
+*.jpg
+*.jpeg
+*.webp
+config/flow.config.json
+config/flow.projects.json
+.env
+.env.*
+.DS_Store
+*.log
+test-agent-generation.js
+chrome-profile-agent/
